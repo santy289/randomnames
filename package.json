@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@faker-js/faker": "^6.0.0-alpha.7"
+  },
+  "name": "fakenames",
+  "version": "1.0.0",
+  "description": "create one thousand aleatory names ",
+  "main": "RandomNames.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santy289/randomnames.git"
+  },
+  "keywords": [
+    "Random"
+  ],
+  "author": "SantyDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santy289/randomnames/issues"
+  },
+  "homepage": "https://github.com/santy289/randomnames#readme"
+}
